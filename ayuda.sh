@@ -1,0 +1,25 @@
+#ayuda
+printf "\033c"
+echo -e -n "\033[40m\033[1;36m  ██████╗ ██████╗ ███████╗██████╗ ███████╗███████╗██╗  ██╗███████╗██╗     ██╗      \033[0m\n"
+echo -e -n "\033[40m\033[1;34m  ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██║  ██║██╔════╝██║     ██║      \033[0m\n"
+echo -e -n "\033[40m\033[1;35m  ██████╔╝██████╔╝█████╗  ██████╔╝█████╗  ███████╗███████║█████╗  ██║     ██║      \033[0m\n"
+echo -e -n "\033[40m\033[1;33m  ██╔═══╝ ██╔══██╗██╔══╝  ██╔══██╗██╔══╝  ╚════██║██╔══██║██╔══╝  ██║     ██║      \033[0m\n"
+echo -e -n "\033[40m\033[1;31m  ██║     ██║  ██║███████╗██████╔╝███████╗███████║██║  ██║███████╗███████╗███████  \033[0m\n"
+echo -e -n "\033[40m\033[1;32m  ╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ \033[0m\n"
+echo
+echo -e -n "\e[5m\033[40m\033[1;36m\n********************************************\033[0m"
+echo -e -n "\e[5m\033[40m\033[1;36m\n*               COMANDOS                   *\033[0m" 
+echo -e -n "\e[5m\033[40m\033[1;36m\n********************************************\033[0m"
+echo -e -n "\e[93m\n  ayuda\t\t \e[37m muestra los comandos que te enseñaran a menejar la terminal"
+echo -e -n "\e[93m\n  clear\t\t \e[37m limpia pantalla"
+echo -e -n "\e[93m\n  infosis\t \e[37m informacion del sistema"
+echo -e -n "\e[93m\n  arbol\t\t \e[37m muestra los directorios"
+echo -e -n "\e[93m\n  fecha\t\t \e[37m muestra la fecha del sistema"
+echo -e -n "\e[93m\n  hora\t\t \e[37m muestra la hora del sistema"
+echo -e -n "\e[93m\n  buscar\t \e[37m permite buscar un archivo en un directorio"
+echo -e -n "\e[93m\n  jugar\t\t \e[37m juego tictac toe"
+echo -e -n "\e[93m\n  creditos\t \e[37m creditos de la realización de la prebeshell"
+echo -e -n "\e[93m\n  prebeplayer\t \e[37m reproductor"
+echo -e -n "\e[93m\n  salir\t\t \e[37m salir de la prebeshell"
+echo
+echo
